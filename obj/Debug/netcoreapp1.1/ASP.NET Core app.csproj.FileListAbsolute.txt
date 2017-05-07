@@ -1,0 +1,8 @@
+C:\Apps\webstudy\ASP.NET Core app\bin\Debug\netcoreapp1.1\ASP.NET Core app.deps.json
+C:\Apps\webstudy\ASP.NET Core app\bin\Debug\netcoreapp1.1\ASP.NET Core app.runtimeconfig.json
+C:\Apps\webstudy\ASP.NET Core app\bin\Debug\netcoreapp1.1\ASP.NET Core app.runtimeconfig.dev.json
+C:\Apps\webstudy\ASP.NET Core app\bin\Debug\netcoreapp1.1\ASP.NET Core app.dll
+C:\Apps\webstudy\ASP.NET Core app\bin\Debug\netcoreapp1.1\ASP.NET Core app.pdb
+C:\Apps\webstudy\ASP.NET Core app\obj\Debug\netcoreapp1.1\ASP.NET Core app.AssemblyInfo.cs
+C:\Apps\webstudy\ASP.NET Core app\obj\Debug\netcoreapp1.1\ASP.NET Core app.dll
+C:\Apps\webstudy\ASP.NET Core app\obj\Debug\netcoreapp1.1\ASP.NET Core app.pdb
