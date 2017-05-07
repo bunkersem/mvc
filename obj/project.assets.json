@@ -9652,10 +9652,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Apps\\webstudy\\ASP.NET Core app\\ASP.NET Core app.csproj",
-      "projectName": "ASP.NET Core app",
-      "projectPath": "C:\\Apps\\webstudy\\ASP.NET Core app\\ASP.NET Core app.csproj",
-      "outputPath": "C:\\Apps\\webstudy\\ASP.NET Core app\\obj\\",
+      "projectUniqueName": "C:\\Apps\\webstudy\\ASP_NET_Core_app\\ASP_NET_Core_app.csproj",
+      "projectName": "ASP_NET_Core_app",
+      "projectPath": "C:\\Apps\\webstudy\\ASP_NET_Core_app\\ASP_NET_Core_app.csproj",
+      "outputPath": "C:\\Apps\\webstudy\\ASP_NET_Core_app\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
